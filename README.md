@@ -10,3 +10,5 @@ https://skimai.com/roberta-language-model-for-spanish/
 https://github.com/racdale/example-cha-extract/blob/master/processChatFile.ipynb
 
 https://medium.com/analytics-vidhya/6-steps-to-build-roberta-a-robustly-optimised-bert-pretraining-approach-e508ebe78b96
+
+https://huggingface.co/transformers/model_doc/roberta.html
